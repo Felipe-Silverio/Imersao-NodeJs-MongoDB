@@ -1,0 +1,34 @@
+{
+  "name": "imersao-alura-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Felipe Silverio",
+    "email": "felipinhogoncalo10@gmail.com",
+    "url": "https://github.com/Felipe-Silverio"
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "node server.js",
+    "dev-watch": "node --watch server.js",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
